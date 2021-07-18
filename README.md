@@ -9,4 +9,5 @@ Problem solving
 SQL
 
 1) Weather Observation Station 3 (even ID number concept)
-2) 
+2) Weather Observation Station 4 (subtraction)
+3) 
