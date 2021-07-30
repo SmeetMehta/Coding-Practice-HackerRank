@@ -14,4 +14,5 @@ SQL
 4) Weather Observation Station 6 (Starting with a vowel)
 5) Weather Observation Station 7 (Ending with a vowel)
 6) Weather Observation Station 8 (Starting and Ending with vowel)
-7) 
+7) Weather Observation Station 9 (Doesn't start with vowel)
+8) 
